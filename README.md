@@ -1,5 +1,7 @@
-# nixosconf
+# nixosconf (archived)
 _NixOS configuration for my current machines._
+
+**NOTE: I've changed the way I manage my NixOS machines. However, I'm keeping this repository around in case it's useful to someone.**
 
 Feel free to use and adapt as you wish.
 
